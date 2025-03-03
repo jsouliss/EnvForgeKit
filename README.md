@@ -1,6 +1,6 @@
 # dotfiles
 
-- This repository serves as a bootstrapper for new systems. 
+- This repository serves as a bootstrapper for new systems using dotbot. 
 - In case of system failure or when setting up additional machines, these dotfiles help quickly restore a working environment with the preferred configurations.
 
 ## Included Configs
