@@ -1,7 +1,0 @@
-- link:
-    ~/.config/tmux:
-      create: true
-      path: dotfiles/tmux
-    ~/.zshrc:
-      force: true
-      path: zshrc
