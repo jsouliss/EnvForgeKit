@@ -2,40 +2,40 @@
     ~/.oh-my-zsh:
       create: true
       relink: true
-      path: ./.oh-my-zsh
+      path: ./dotfiles/.oh-my-zsh
     ~/.zsh:
       create: true
       relink: true
-      path: ./.zsh
+      path: ./dotfiles/.zsh
     ~/.zshrc:
       create: true
       relink: true
-      path: ./.zsh/.zshrc
+      path: ./dotfiles/.zsh/.zshrc
     ~/.config/aerospace:
       create: true
       relink: true
-      path: ./aerospace
+      path: ./dotfiles/aerospace
     ~/.config/fastfetch:
       create: true
       relink: true
-      path: ./fastfetch
+      path: ./dotfiles/fastfetch
     ~/.config/nvim:
       create: true
       relink: true
-      path: ./nvim
+      path: ./dotfiles/nvim
     ~/.config/sketchybar:
       create: true
       relink: true
-      path: ./sketchybar
+      path: ./dotfiles/sketchybar
     ~/.config/tmux:
       create: true
       relink: true
-      path: ./tmux 
+      path: ./dotfiles/tmux 
     ~/.tmux.conf:
       create: true
       relink: true
-      path: ./tmux/.tmux.conf
+      path: ./dotfiles/tmux/.tmux.conf
     ~/.config/zellij:
       create: true
       relink: true
-      path: ./zellij
+      path: ./dotfiles/zellij
