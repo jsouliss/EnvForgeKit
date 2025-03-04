@@ -1,5 +1,7 @@
 # EnvForgeKit
 
+> Work in progress
+
 - EnvForgeKit is a bootstrapping toolkit designed to help quickly set up and configure environments from malware analysis and development setups to various OS-specific configurations—while also managing dotfiles.
 
 ## Features
@@ -15,8 +17,6 @@
 
 - **User-Friendly UI:**  
   A simple CLI menu to select which environment to set up, launching the corresponding script.
-
----
 
 ## Credits & Attribution
 
