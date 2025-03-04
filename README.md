@@ -1,26 +1,20 @@
-# dotfiles
+# EnvForgeKit
 
-- This repository serves as a bootstrapper for new systems using dotbot. 
-- In case of system failure or when setting up additional machines, these dotfiles help quickly restore a working environment with the preferred configurations.
+- EnvForgeKit is a bootstrapping toolkit designed to help quickly set up and configure environments from malware analysis and development setups to various OS-specific configurations—while also managing dotfiles.
 
-## Included Configs
+## Features
 
-- **.oh-my-zsh**
-- **.zsh**
-- **aerospace**
-- **fastfetch**
-- **nvim**
-- **sketchybar** 
-- **tmux** 
-- **zellij**
+- **Automated Application Installation:**  
+  Installs all the tools and libraries needed, using package managers like Homebrew or apt.
 
-## Usage
+- **Environment-Specific Bootstrap Scripts:**  
+  Separate scripts to handle setups for different environments (e.g., malware analysis, malware development, etc.).
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/dotfiles.git
-   cd dotfiles
-   ```
+- **Dotfiles Management:**  
+  Integrated dotfiles management using Dotbot to create symlinks for your configurations.
+
+- **User-Friendly UI:**  
+  A simple CLI menu to select which environment to set up, launching the corresponding script.
 
 ---
 

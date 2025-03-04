@@ -1,0 +1,41 @@
+- link:
+    ~/.oh-my-zsh:
+      create: true
+      relink: true
+      path: ./.oh-my-zsh
+    ~/.zsh:
+      create: true
+      relink: true
+      path: ./.zsh
+    ~/.zshrc:
+      create: true
+      relink: true
+      path: ./.zsh/.zshrc
+    ~/.config/aerospace:
+      create: true
+      relink: true
+      path: ./aerospace
+    ~/.config/fastfetch:
+      create: true
+      relink: true
+      path: ./fastfetch
+    ~/.config/nvim:
+      create: true
+      relink: true
+      path: ./nvim
+    ~/.config/sketchybar:
+      create: true
+      relink: true
+      path: ./sketchybar
+    ~/.config/tmux:
+      create: true
+      relink: true
+      path: ./tmux 
+    ~/.tmux.conf:
+      create: true
+      relink: true
+      path: ./tmux/.tmux.conf
+    ~/.config/zellij:
+      create: true
+      relink: true
+      path: ./zellij
